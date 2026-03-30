@@ -1,1 +1,23 @@
 
+[2026-12-16 13:01:46] USB monitoring started
+[2026-12-16 13:02:44] USB Connected | Device: Mass Storage Device USB Device | PNPID: USBSTOR\DISK&VEN_MASS&PROD_STORAGE_DEVICE&REV_1.00\121220160204&0
+[2026-12-16 13:08:50] USB monitoring started
+[2026-12-16 13:08:57] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE
+[2026-12-16 13:09:01] USB Disconnected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE
+[2026-12-16 13:17:14] USB monitoring started
+[2026-12-16 13:17:21] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2026-12-16 13:17:26] USB Disconnected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | status: ALLOWED
+[2026-12-16 13:23:45] USB monitoring started
+[2026-12-16 13:23:56] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2026-12-16 13:28:57] USB monitoring started
+[2026-12-16 13:29:24] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2026-12-16 13:29:45] USB Disconnected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2026-12-16 13:44:03] USB monitoring started
+[2026-12-16 13:44:15] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2026-12-16 13:45:15] USB Disconnected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2026-12-16 13:46:50] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2026-03-30 20:52:19] USB monitoring started
+[2026-03-30 21:21:38] USB monitoring started
+[2026-03-30 21:23:05] USB monitoring started
+[2026-03-30 21:28:58] USB monitoring started
+[2026-03-30 21:29:53] USB Disconnected | Device: SanDisk Cruzer Blade USB Device | VID: SANDISK | PID: CRUZER_BLADE | Status: UNKNOWN
